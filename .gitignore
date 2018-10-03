@@ -1,1 +1,10 @@
-/target/
+*~
+*.log*
+*.gz
+.classpath
+.project
+.settings
+.DS_Store
+/target
+
+/.metadata/
